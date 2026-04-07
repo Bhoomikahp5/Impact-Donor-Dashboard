@@ -1,0 +1,151 @@
+donation_id,donor_id,donation_date,donation_amount,currency,platform,campaign,donation_type
+T0001,D010,2024-02-19,100,USD,Givebutter,Emergency Surgery Fund,One-Time
+T0002,D047,2024-01-25,75,USD,PayPal,Emergency Surgery Fund,Recurring
+T0003,D041,2024-09-16,1000,USD,Stripe,Patient Care Fund,One-Time
+T0004,D049,2024-08-13,250,USD,PayPal,Patient Care Fund,One-Time
+T0005,D015,2024-06-24,500,USD,Stripe,General Support,One-Time
+T0006,D045,2024-02-11,250,USD,Givebutter,General Support,One-Time
+T0007,D004,2024-07-26,150,USD,Givebutter,Patient Care Fund,One-Time
+T0008,D042,2024-04-18,50,USD,PayPal,General Support,Recurring
+T0009,D012,2024-06-05,100,USD,Givebutter,General Support,Recurring
+T0010,D005,2024-02-12,25,USD,Givebutter,Patient Care Fund,One-Time
+T0011,D024,2024-02-28,100,USD,PayPal,Patient Care Fund,One-Time
+T0012,D011,2024-11-20,1000,USD,Givebutter,Patient Care Fund,One-Time
+T0013,D047,2024-10-28,50,USD,Givebutter,General Support,Recurring
+T0014,D009,2024-07-05,50,USD,Stripe,Patient Care Fund,One-Time
+T0015,D032,2024-07-23,150,USD,Givebutter,Emergency Surgery Fund,One-Time
+T0016,D017,2024-02-17,500,USD,Givebutter,Emergency Surgery Fund,One-Time
+T0017,D043,2024-10-23,500,USD,PayPal,Patient Care Fund,Recurring
+T0018,D050,2024-04-29,100,USD,PayPal,Patient Care Fund,Recurring
+T0019,D025,2024-01-14,100,USD,PayPal,Emergency Surgery Fund,Recurring
+T0020,D024,2024-07-11,100,USD,Givebutter,General Support,One-Time
+T0021,D030,2024-02-07,50,USD,Givebutter,General Support,One-Time
+T0022,D011,2024-10-24,150,USD,Stripe,Emergency Surgery Fund,One-Time
+T0023,D006,2024-03-02,25,USD,PayPal,Patient Care Fund,Recurring
+T0024,D037,2024-04-19,150,USD,Stripe,Patient Care Fund,One-Time
+T0025,D014,2024-01-04,100,USD,PayPal,Patient Care Fund,One-Time
+T0026,D001,2024-08-26,250,USD,PayPal,Emergency Surgery Fund,One-Time
+T0027,D044,2024-07-03,100,USD,Stripe,Emergency Surgery Fund,Recurring
+T0028,D048,2024-05-02,250,USD,Givebutter,Patient Care Fund,One-Time
+T0029,D049,2024-06-15,1000,USD,Stripe,Emergency Surgery Fund,One-Time
+T0030,D008,2024-05-24,500,USD,PayPal,Patient Care Fund,One-Time
+T0031,D017,2024-02-24,75,USD,Givebutter,General Support,One-Time
+T0032,D043,2024-01-04,500,USD,Stripe,Patient Care Fund,One-Time
+T0033,D030,2024-05-21,250,USD,Givebutter,Emergency Surgery Fund,One-Time
+T0034,D001,2024-08-01,100,USD,Givebutter,Patient Care Fund,One-Time
+T0035,D013,2024-06-04,100,USD,Stripe,Patient Care Fund,Recurring
+T0036,D033,2024-11-23,25,USD,Stripe,General Support,One-Time
+T0037,D028,2024-02-27,25,USD,Givebutter,General Support,Recurring
+T0038,D036,2024-11-01,500,USD,Givebutter,Emergency Surgery Fund,Recurring
+T0039,D023,2024-01-05,25,USD,PayPal,General Support,Recurring
+T0040,D012,2024-01-18,500,USD,Givebutter,General Support,One-Time
+T0041,D036,2024-04-20,25,USD,PayPal,General Support,Recurring
+T0042,D009,2024-03-08,50,USD,PayPal,General Support,Recurring
+T0043,D016,2024-08-01,100,USD,Givebutter,General Support,One-Time
+T0044,D038,2024-02-10,75,USD,Givebutter,Patient Care Fund,Recurring
+T0045,D016,2024-10-17,50,USD,PayPal,General Support,One-Time
+T0046,D024,2024-02-11,250,USD,Stripe,Emergency Surgery Fund,Recurring
+T0047,D049,2024-05-04,250,USD,PayPal,Patient Care Fund,One-Time
+T0048,D027,2024-09-25,50,USD,PayPal,Emergency Surgery Fund,Recurring
+T0049,D010,2024-05-10,25,USD,Stripe,Patient Care Fund,One-Time
+T0050,D031,2024-04-21,100,USD,Givebutter,Patient Care Fund,One-Time
+T0051,D046,2024-03-15,500,USD,Stripe,Patient Care Fund,One-Time
+T0052,D017,2024-09-05,500,USD,Givebutter,Emergency Surgery Fund,One-Time
+T0053,D034,2024-03-23,50,USD,Stripe,Patient Care Fund,Recurring
+T0054,D015,2024-03-15,500,USD,Givebutter,Emergency Surgery Fund,One-Time
+T0055,D026,2024-06-16,25,USD,Givebutter,General Support,Recurring
+T0056,D032,2024-02-12,150,USD,Givebutter,Patient Care Fund,Recurring
+T0057,D048,2024-10-20,250,USD,Stripe,General Support,One-Time
+T0058,D022,2024-10-09,150,USD,Givebutter,Emergency Surgery Fund,One-Time
+T0059,D010,2024-11-08,50,USD,PayPal,Patient Care Fund,Recurring
+T0060,D036,2024-03-12,25,USD,PayPal,Patient Care Fund,Recurring
+T0061,D008,2024-11-23,25,USD,Givebutter,General Support,Recurring
+T0062,D017,2024-01-20,250,USD,Stripe,Emergency Surgery Fund,Recurring
+T0063,D009,2024-05-14,75,USD,Givebutter,Emergency Surgery Fund,One-Time
+T0064,D019,2024-05-31,150,USD,PayPal,Emergency Surgery Fund,One-Time
+T0065,D047,2024-02-05,150,USD,PayPal,General Support,Recurring
+T0066,D044,2024-06-25,100,USD,PayPal,Emergency Surgery Fund,One-Time
+T0067,D023,2024-11-15,100,USD,PayPal,Patient Care Fund,One-Time
+T0068,D030,2024-02-17,500,USD,Givebutter,Patient Care Fund,Recurring
+T0069,D008,2024-11-26,250,USD,PayPal,General Support,One-Time
+T0070,D022,2024-01-22,25,USD,Stripe,General Support,One-Time
+T0071,D040,2024-07-23,25,USD,PayPal,General Support,Recurring
+T0072,D019,2024-10-27,100,USD,Givebutter,General Support,One-Time
+T0073,D018,2024-05-29,500,USD,Stripe,General Support,Recurring
+T0074,D011,2024-07-19,75,USD,PayPal,General Support,Recurring
+T0075,D040,2024-02-29,100,USD,PayPal,Patient Care Fund,One-Time
+T0076,D003,2024-02-12,150,USD,Stripe,General Support,One-Time
+T0077,D023,2024-02-15,75,USD,PayPal,Patient Care Fund,One-Time
+T0078,D012,2024-01-15,1000,USD,Givebutter,Emergency Surgery Fund,Recurring
+T0079,D026,2024-07-09,25,USD,Givebutter,General Support,Recurring
+T0080,D016,2024-11-13,50,USD,Givebutter,Emergency Surgery Fund,One-Time
+T0081,D050,2024-06-13,25,USD,Givebutter,Emergency Surgery Fund,Recurring
+T0082,D023,2024-05-16,50,USD,PayPal,General Support,Recurring
+T0083,D013,2024-08-29,100,USD,Stripe,Patient Care Fund,One-Time
+T0084,D024,2024-03-21,50,USD,Stripe,Emergency Surgery Fund,Recurring
+T0085,D034,2024-10-17,250,USD,Givebutter,General Support,Recurring
+T0086,D006,2024-09-21,150,USD,PayPal,Emergency Surgery Fund,Recurring
+T0087,D046,2024-11-16,250,USD,Stripe,General Support,One-Time
+T0088,D021,2024-02-14,50,USD,Stripe,General Support,Recurring
+T0089,D024,2024-05-04,100,USD,PayPal,Patient Care Fund,One-Time
+T0090,D009,2024-04-08,150,USD,PayPal,General Support,One-Time
+T0091,D016,2024-10-20,1000,USD,Givebutter,Emergency Surgery Fund,One-Time
+T0092,D003,2024-09-06,50,USD,Stripe,General Support,One-Time
+T0093,D034,2024-11-23,1000,USD,Stripe,General Support,One-Time
+T0094,D050,2024-05-27,25,USD,Stripe,General Support,Recurring
+T0095,D050,2024-07-06,250,USD,PayPal,Patient Care Fund,One-Time
+T0096,D043,2024-04-06,100,USD,Givebutter,General Support,One-Time
+T0097,D012,2024-11-07,1000,USD,PayPal,General Support,Recurring
+T0098,D013,2024-09-13,250,USD,PayPal,Patient Care Fund,One-Time
+T0099,D002,2024-07-30,250,USD,Stripe,Patient Care Fund,Recurring
+T0100,D007,2024-03-07,100,USD,PayPal,Patient Care Fund,One-Time
+T0101,D034,2024-07-08,25,USD,Stripe,Emergency Surgery Fund,One-Time
+T0102,D035,2024-10-09,150,USD,Stripe,Patient Care Fund,One-Time
+T0103,D010,2024-07-09,250,USD,Stripe,General Support,One-Time
+T0104,D009,2024-05-25,50,USD,Givebutter,General Support,One-Time
+T0105,D005,2024-03-11,250,USD,Givebutter,Emergency Surgery Fund,Recurring
+T0106,D020,2024-05-27,150,USD,Givebutter,General Support,One-Time
+T0107,D044,2024-08-25,500,USD,Stripe,General Support,Recurring
+T0108,D037,2024-05-14,150,USD,Givebutter,Patient Care Fund,Recurring
+T0109,D026,2024-02-25,500,USD,Givebutter,Patient Care Fund,One-Time
+T0110,D025,2024-01-30,1000,USD,Stripe,Emergency Surgery Fund,Recurring
+T0111,D028,2024-05-14,100,USD,PayPal,General Support,Recurring
+T0112,D021,2024-02-10,1000,USD,Givebutter,Patient Care Fund,One-Time
+T0113,D033,2024-04-04,75,USD,Stripe,Patient Care Fund,Recurring
+T0114,D048,2024-04-21,50,USD,PayPal,Emergency Surgery Fund,One-Time
+T0115,D017,2024-11-03,100,USD,Stripe,General Support,Recurring
+T0116,D035,2024-04-22,150,USD,Stripe,General Support,One-Time
+T0117,D023,2024-11-14,500,USD,PayPal,General Support,Recurring
+T0118,D025,2024-02-23,1000,USD,Givebutter,General Support,One-Time
+T0119,D018,2024-01-10,500,USD,Givebutter,Emergency Surgery Fund,One-Time
+T0120,D049,2024-06-18,75,USD,Stripe,Emergency Surgery Fund,One-Time
+T0121,D016,2024-01-31,100,USD,PayPal,Patient Care Fund,Recurring
+T0122,D039,2024-08-06,25,USD,Stripe,Patient Care Fund,Recurring
+T0123,D019,2024-09-07,25,USD,Stripe,General Support,One-Time
+T0124,D028,2024-06-01,50,USD,PayPal,General Support,Recurring
+T0125,D036,2024-06-19,250,USD,Givebutter,Emergency Surgery Fund,Recurring
+T0126,D029,2024-07-04,75,USD,Givebutter,General Support,One-Time
+T0127,D031,2024-09-28,25,USD,Stripe,Patient Care Fund,One-Time
+T0128,D025,2024-05-07,500,USD,Stripe,Emergency Surgery Fund,Recurring
+T0129,D020,2024-07-19,25,USD,PayPal,General Support,One-Time
+T0130,D019,2024-10-19,250,USD,PayPal,General Support,One-Time
+T0131,D028,2024-05-02,50,USD,PayPal,General Support,Recurring
+T0132,D023,2024-07-07,150,USD,PayPal,Patient Care Fund,Recurring
+T0133,D041,2024-02-25,100,USD,Stripe,Emergency Surgery Fund,Recurring
+T0134,D009,2024-08-03,50,USD,Givebutter,Emergency Surgery Fund,One-Time
+T0135,D048,2024-09-26,100,USD,PayPal,General Support,One-Time
+T0136,D033,2024-01-15,500,USD,Stripe,Emergency Surgery Fund,One-Time
+T0137,D035,2024-10-02,1000,USD,Stripe,General Support,One-Time
+T0138,D032,2024-10-25,250,USD,Givebutter,Emergency Surgery Fund,Recurring
+T0139,D038,2024-10-01,100,USD,PayPal,Patient Care Fund,One-Time
+T0140,D023,2024-10-15,250,USD,PayPal,Emergency Surgery Fund,One-Time
+T0141,D013,2024-11-08,1000,USD,Stripe,General Support,One-Time
+T0142,D038,2024-03-01,50,USD,PayPal,Emergency Surgery Fund,One-Time
+T0143,D014,2024-09-28,50,USD,PayPal,Patient Care Fund,Recurring
+T0144,D028,2024-04-23,500,USD,Givebutter,General Support,One-Time
+T0145,D032,2024-07-01,75,USD,PayPal,Patient Care Fund,Recurring
+T0146,D047,2024-03-31,250,USD,Stripe,Patient Care Fund,Recurring
+T0147,D029,2024-01-12,100,USD,PayPal,Emergency Surgery Fund,One-Time
+T0148,D007,2024-09-02,250,USD,Stripe,General Support,One-Time
+T0149,D047,2024-08-15,250,USD,PayPal,Patient Care Fund,Recurring
+T0150,D040,2024-03-13,1000,USD,Stripe,Emergency Surgery Fund,One-Time
